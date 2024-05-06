@@ -1,8 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
-## REGISTER NO : 212223230031
 ## NAME : P.BHARATHRAJ
-
+## REGISTER NO : 212223230031
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -82,9 +80,11 @@ s.send("Acknowledgement received from the server.".encode())
 ```
 ## Output:
 ### Client:
-![Screenshot 2024-04-14 144147](https://github.com/Bharathraj2006/SocketStudy/assets/152376845/a893ca72-a8e9-44c8-911a-2145ca6fbed7)
+![image](https://github.com/Bharathraj2006/SocketStudy/assets/152376845/18696b75-1b4d-4905-96d4-906cc5934f89)
+
 ### Server:
-![Screenshot 2024-04-14 144225](https://github.com/Bharathraj2006/SocketStudy/assets/152376845/a35c1be5-bcee-4c5c-bd4b-e16000e86398)
+![image](https://github.com/Bharathraj2006/SocketStudy/assets/152376845/9fa283cd-6477-4a53-8537-a13c80f5fc21)
+
 
 
 ## Result:
